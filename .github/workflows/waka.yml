@@ -5,9 +5,6 @@ on:
   push:
     branches:
       - main
-  schedule:
-    # Runs at 12am IST
-    - cron: '10 2 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
