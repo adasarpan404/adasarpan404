@@ -41,3 +41,6 @@
 
 ![Arpan's Github Stats](https://github-readme-stats.vercel.app/api?username=adasarpan404&show_icons=true) 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
