@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Arpan
+### Hi there 👋 I'm Arpan Das
 
 
 - 🔭 I’m currently working on MERN 
