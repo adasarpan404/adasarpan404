@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/ee398866-0f1b-4b4b-8e42-10f5b2f24839/project/71200662-5985-4c95-a954-29c937aacb73.svg)](https://wakatime.com/badge/user/ee398866-0f1b-4b4b-8e42-10f5b2f24839/project/71200662-5985-4c95-a954-29c937aacb73)
+
 ### Hi there 👋 I'm Arpan Das
 
 
