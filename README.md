@@ -49,5 +49,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adasarpan404)]
 
-[![@vaibhava17's Holopin board](https://www.holopin.io/@adasarpan404)](https://www.holopin.io/@adasarpan404)
+[![An image of @adasarpan404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adasarpan404)](https://holopin.io/@adasarpan404)
 
