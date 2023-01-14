@@ -41,7 +41,7 @@
 </a>
 </p>
 
-<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=adasarpan404&theme=radical" alt="arpan das" />&nbsp; &nbsp;
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=adasarpan404&theme=radical" alt="arpan das" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=adasarpan404&count_private=true&theme=radical"/>&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adasarpan404&langs_count=8&theme=radical"/></p>
 
  
 <!--START_SECTION:waka-->
