@@ -3,9 +3,9 @@
 ### Hi there 👋 I'm Arpan Das
 
 
-- 🔭 I’m currently working on MERN and Rust.
+- 🔭 I’m currently working on MERN and GO.
 - 🌱 I’m currently learning System Design
-- 👯 I’m looking to collaborate on Open Source Project based on javascript
+- 👯 I’m looking to collaborate on Open Source Project based on javascript, go.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
