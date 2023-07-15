@@ -43,51 +43,6 @@
 
 <p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=adasarpan404&theme=radical" alt="arpan das" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=adasarpan404&count_private=true&theme=radical"/>&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adasarpan404&langs_count=11&theme=radical"/></p>
 
- 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C203%20hrs%2029%20mins-blue)
-
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   356 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Tuesday                  253 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Wednesday                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Thursday                 109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Friday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Saturday                 181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Sunday                   318 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               13 hrs 58 mins      ██████████████░░░░░░░░░░░   57.45 % 
-Go                       9 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.01 % 
-HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-Kotlin                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-```
-
-
-
-
- Last Updated on 13/07/2023 15:31:55 UTC
-<!--END_SECTION:waka-->
-
-
 
 [![An image of @adasarpan404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adasarpan404)](https://holopin.io/@adasarpan404)
 
