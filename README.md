@@ -16,7 +16,7 @@ I'm well-versed in a variety of technologies, including:
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git
 - **Cloud:** AWS
-- 
+  
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=adasarpan404&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adasarpan404&theme=react&hide_border=false)<br/>
