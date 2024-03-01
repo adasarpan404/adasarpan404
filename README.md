@@ -1,11 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/ee398866-0f1b-4b4b-8e42-10f5b2f24839.svg)](https://wakatime.com/@ee398866-0f1b-4b4b-8e42-10f5b2f24839)
 
 ### Hi there 👋 I'm Arpan Das
-
-
-- 🔭 I’m currently working on MERN and GO.
-- 🌱 I’m currently learning System Design
-- 👯 I’m looking to collaborate on Open Source Project based on javascript, go.
+I'm a passionate Software Engineer based in India 🇮🇳. Welcome to my GitHub profile! Here, you'll find a mix of my projects, contributions to open-source, and my journey in the world of coding.
 
 # 💻 Tech Stack
 
