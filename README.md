@@ -7,7 +7,7 @@ I'm a passionate Software Engineer based in India 🇮🇳. Welcome to my GitHub
 
 I'm well-versed in a variety of technologies, including:
 
-- **Languages:** Javascript, TypeScript, Go, 
+- **Languages:** Javascript, TypeScript, Go, Rust
 - **Frameworks:** Next.js, Express, Reactjs, Gin
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git
