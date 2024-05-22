@@ -2,16 +2,6 @@
 
 ### Hi there 👋 I'm Arpan Das
 I'm a passionate Software Engineer based in India 🇮🇳. Welcome to my GitHub profile! Here, you'll find a mix of my projects, contributions to open-source, and my journey in the world of coding.
-
-# 💻 Tech Stack
-
-I'm well-versed in a variety of technologies, including:
-
-- **Languages:** Javascript, TypeScript, Go, Rust
-- **Frameworks:** Next.js, Express, Reactjs, Gin
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git
-- **Cloud:** AWS
   
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=adasarpan404&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
