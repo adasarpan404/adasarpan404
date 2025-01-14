@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/ee398866-0f1b-4b4b-8e42-10f5b2f24839.svg)](https://wakatime.com/@ee398866-0f1b-4b4b-8e42-10f5b2f24839)
+👋 Hey, I’m Arpan Das, a Software Engineer from India 🇮🇳.
 
-### Hi there 👋 I'm Arpan Das
-I'm a passionate Software Engineer based in India 🇮🇳. Welcome to my GitHub profile! Here, you'll find a mix of my projects, contributions to open-source, and my journey in the world of coding.
+Code, create, repeat—that’s the vibe here. Dive into my projects, open-source hustles, and coding adventures. Let’s build cool stuff together! 🚀
   
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=adasarpan404&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
