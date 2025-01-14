@@ -1,5 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/ee398866-0f1b-4b4b-8e42-10f5b2f24839.svg)](https://wakatime.com/@ee398866-0f1b-4b4b-8e42-10f5b2f24839)
-👋 Hey, I’m Arpan Das, a Software Engineer from India 🇮🇳.
+
+###👋 Hey, I’m Arpan Das, a Software Engineer from India 🇮🇳.
 
 Code, create, repeat—that’s the vibe here. Dive into my projects, open-source hustles, and coding adventures. Let’s build cool stuff together! 🚀
   
