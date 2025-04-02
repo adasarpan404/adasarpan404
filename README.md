@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adasarpan404&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## LeetCode Stats
- <a href="https://leetcode.com/dasarpan471/"><img height="273em" src="https://leetcard.jacoblin.cool/dasarpan7088?theme=light&font=Karma&ext=contest" /></a>
+ <a href="https://leetcode.com/dasarpan471/"><img height="273em" src="https://leetcard.jacoblin.cool/dasarpan471?theme=light&font=Karma&ext=contest" /></a>
 
  
 [![An image of @adasarpan404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adasarpan404)](https://holopin.io/@adasarpan404)
