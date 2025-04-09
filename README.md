@@ -7,7 +7,7 @@
 
 ✨ What I’m Up To:
 
-🏗️ Cooking up projects in Golang, JavaScript, and DevOps
+🏗️ Cooking up projects in Golang, JavaScript, Typescript and DevOps
 
 🏆 Grinding DSA & Competitive Programming (Expert grind on Codeforces 🤓)
 
