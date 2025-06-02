@@ -23,5 +23,3 @@
 
  
 [![An image of @adasarpan404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adasarpan404)](https://holopin.io/@adasarpan404)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=adasarpan404&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
