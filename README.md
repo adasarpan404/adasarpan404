@@ -85,14 +85,5 @@ When I'm away from my editor, you'll probably find me:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adasarpan404)](https://github.com/adasarpan404)
 
----
-
-### 🤝 Let’s Connect
-
-- Email: dasarpan471@gmail.com
-- [LinkedIn](https://linkedin.com/in/arpandas-adasarpan)
-- [Twitter](https://twitter.com/adasarpan)
-
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
