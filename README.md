@@ -1,28 +1,85 @@
-## 👋 Hey, I’m Arpan Das!
+# Hey there 👋, I'm Arpan Das
 
-### 💻 Software Engineer | Open-Source Enthusiast | Code Addict
+Backend engineer by profession, builder by obsession.
 
-🚀 I love building cool stuff, breaking things (intentionally), and squeezing out the best performance from code.
+I enjoy designing systems that survive real-world traffic, debugging things that "worked on my machine," and turning ideas into products people actually use. Somewhere between writing APIs and chasing deadlines, I developed an unhealthy fascination with travel and collecting passport stamps.
+
+## 🚀 What I Do
+
+- 💻 Building backend systems with **Node.js** and **TypeScript**
+- ☁️ Designing scalable architectures on **AWS**
+- 🗄️ Working with **MongoDB**, **Redis**, and distributed systems
+- 🔌 Building APIs, microservices, and event-driven applications
+- ⚡ Optimizing performance and reliability for production systems
+- 🛠️ Turning side-project ideas into real products
+
+## 🌱 Currently Learning
+
+I strongly believe that the best engineers never stop being students.
+
+- 🐹 **Go** for high-performance backend systems and concurrency
+- 🦀 **Rust** to better understand memory safety and systems programming
+- 🏗️ Advanced system design and distributed systems
+- 🌍 Open source collaboration and developer tooling
+- 🚀 Building SaaS products from scratch
+
+## 🧰 Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+- Go *(learning)*
+- Rust *(learning)*
+- Java
+
+### Backend
+- Node.js
+- Express.js
+- Fastify
+- REST APIs
+- WebSockets
+- Microservices
+- BullMQ
+
+### Frontend
+- React
+- Tailwind CSS
+- Redux Toolkit
+
+### Databases & Caching
+- MongoDB
+- Redis
+- Elasticsearch
+- PostgreSQL
+
+### Cloud & DevOps
+- AWS
+- Docker
+- GitHub Actions
+- Linux
+- Kubernetes *(familiar)*
+
+## 📚 Learning in Public
+
+I enjoy documenting what I learn, sharing experiments, and building projects that push me outside my comfort zone. Today's "I have no idea how this works" often becomes tomorrow's favorite tool.
+
+## 🌍 Beyond Code
+
+When I'm away from my editor, you'll probably find me:
+
+- 🥊 Training and improving my fitness
+- 📸 Exploring new cultures and experiences
+- 📖 Reading about technology, startups, and human psychology
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/arpandas-adasarpan/
+- GitHub: https://github.com/adasarpan404
+- Email: dasarpan471@gmail.com
 
 ---
 
-### 🛠️ Tech Stack
-
-![Go](https://img.shields.io/badge/-Golang-informational?style=flat&logo=go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
-![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)
-![DevOps](https://img.shields.io/badge/-DevOps-blueviolet?style=flat&logo=azuredevops)
-
----
-
-### 🌱 What I’m Up To
-
-- 🏗️ Building projects in **Golang, JavaScript, TypeScript, Rust**, and DevOps.
-- 🏆 Sharpening my DSA & Competitive Programming skills (Codeforces Expert 🤓).
-- 🎯 Shipping open-source projects and tech experiments.
-
----
+> Build useful things. Keep learning. Travel far. Stay curious.
 
 ### 📈 Stats & Profiles
 
